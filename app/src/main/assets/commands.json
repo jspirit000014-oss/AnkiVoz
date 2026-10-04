@@ -1,0 +1,11 @@
+{
+    "show": { "related_words": ["mostrar", "muestra", "ver respuesta", "respuesta", "revelar"] },
+    "again": { "related_words": ["mal", "otra vez", "de nuevo", "repetir", "fallo"] },
+    "difficult": { "related_words": ["difícil", "complicado", "cuesta"] },
+    "good": { "related_words": ["bien", "correcto", "vale", "bueno"] },
+    "easy": { "related_words": ["fácil", "sencillo", "simple"] },
+    "read": { "related_words": ["leer", "lee", "lectura"] },
+    "pause": { "related_words": ["pausa", "pausar", "detener"] },
+    "unpause": { "related_words": ["reanudar", "continuar", "seguir"] },
+    "quit": { "related_words": ["salir", "apagar", "terminar"] }
+}

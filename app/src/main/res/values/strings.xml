@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AnkiVoz</string>
+    <string name="a11y_desc">Pulsa los botones de repaso (Mostrar respuesta, Otra vez, Difícil, Bien, Fácil) únicamente dentro de AnkiDroid, según tus comandos de voz. No actúa en ninguna otra app.</string>
+</resources>
